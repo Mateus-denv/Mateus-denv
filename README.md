@@ -2,10 +2,21 @@
 <img align=right src="https://github.com/user-attachments/assets/6a4f88a1-f15e-4b03-a180-2aa68d5ae329" alt="Imagem minha em desenho" width="250">
 
 ###### PT/BR
-Atualmente faço o curso de Técnico de Desenvolvimento de Sistemas no Senai de Camaçari além disso com o meu estudo pessoal sigo aprimorando minhas soft skills e hard skills. Tenho como área de interesse o setor de dados como DBA, Power bi , Business intelligence e futuramente, pretendo me especializar em Machine Learning. Minha meta agora é construir uma jornada profissional sólida, aplicando o que venho aprendendo para oferecer soluções otimizadas e eficientes. Estou confiante de que, ao dedicar-me integralmente ao trabalho, posso aprimorar minhas habilidades técnicas e agregar valor ao ambiente profissional assim contribuindo para o crescimento e inovação da empresa. Um fato sobre mim é que eu amo sair de casa, ar fresco, aprender coisas novas,  praticar esportes como musculação, basquete tambem amo jogos (e sou bem competitivo!😄) assistir a filmes e fazer carinho no meu cachorro.
-###### ENG/USA
-I am currently studying Systems Development Technician at Senai in Camaçari. In addition, I am continuing my personal studies to improve my soft and hard skills. My areas of interest are the data sector, such as DBA, Power BI, Business Intelligence, and in the future, I intend to specialize in Machine Learning. My goal now is to build a solid professional career, applying what I have learned to offer optimized and efficient solutions. I am confident that by dedicating myself fully to work, I can improve my technical skills and add value to the professional environment, thus contributing to the company's growth and innovation. One fact about me is that I love going out, fresh air, learning new things, playing sports such as bodybuilding and basketball. I also love games (and I am very competitive! 😄), watching movies, and petting my dog.
+🎓 Atualmente, curso Técnico em Desenvolvimento de Sistemas no SENAI Camaçari. Paralelamente, venho desenvolvendo minhas hard skills e soft skills por meio de estudos pessoais.
 
+💡 Tenho grande interesse na área de dados, incluindo DBA, Power BI, Business Intelligence e, futuramente, Machine Learning. Meu foco é construir uma jornada profissional sólida, aplicando o que aprendo para criar soluções otimizadas e eficientes.
+
+🚀 Acredito que com dedicação posso agregar valor ao ambiente profissional e contribuir para o crescimento e a inovação das empresas por onde passar.
+
+✨ Fun fact: Amo praticar esportes como musculação e basquete, aprender coisas novas, jogar (sou bem competitivo 😄), ver filmes e dar carinho no meu cachorro.
+###### ENG/USA
+🎓 I'm currently studying Systems Development at SENAI Camaçari. At the same time, I've been developing my hard and soft skills through personal studies.
+
+💡 I'm very interested in the data field, including DBA, Power BI, Business Intelligence, and, in the future, Machine Learning. My focus is building a solid professional career, applying what I learn to create optimized and efficient solutions.
+
+🚀 I believe that with dedication, I can add value to the professional environment and contribute to the growth and innovation of companies wherever I go.
+
+✨ Fun fact: I love playing sports like weight training and basketball, learning new things, playing games (I'm quite competitive 😄), watching movies, and petting my dog.
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
