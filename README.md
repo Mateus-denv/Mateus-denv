@@ -1,15 +1,6 @@
 # Olá, me chamo Mateus 
 <img align=right src="https://github.com/user-attachments/assets/6a4f88a1-f15e-4b03-a180-2aa68d5ae329" alt="Imagem minha em desenho" width="250">
 
-###### PT/BR
-🎓 Atualmente, curso Técnico em Desenvolvimento de Sistemas no SENAI Camaçari. Paralelamente, venho desenvolvendo minhas hard skills e soft skills por meio de estudos pessoais.
-
-💡 Tenho grande interesse na área de dados, incluindo DBA, Power BI, Business Intelligence e, futuramente, Machine Learning. Meu foco é construir uma jornada profissional sólida, aplicando o que aprendo para criar soluções otimizadas e eficientes.
-
-🚀 Acredito que com dedicação posso agregar valor ao ambiente profissional e contribuir para o crescimento e a inovação das empresas por onde passar.
-
-✨ Fun fact: Amo praticar esportes como musculação e basquete, aprender coisas novas, jogar (sou bem competitivo 😄), ver filmes e dar carinho no meu cachorro.
-###### ENG/USA
 🎓 I'm currently studying Systems Development at SENAI Camaçari. At the same time, I've been developing my hard and soft skills through personal studies.
 
 💡 I'm very interested in the data field, including DBA, Power BI, Business Intelligence, and, in the future, Machine Learning. My focus is building a solid professional career, applying what I learn to create optimized and efficient solutions.
