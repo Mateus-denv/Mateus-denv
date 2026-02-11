@@ -9,7 +9,7 @@
 
 ✨ Fun fact: I love playing sports like weight training and basketball, learning new things, playing games (I'm quite competitive 😄), watching movies, and petting my dog.
 ## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mateus-denv&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400">
