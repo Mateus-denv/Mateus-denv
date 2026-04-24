@@ -2,46 +2,40 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Mateus%20J.%20Costa&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&desc=Hi%20,%20welcome!&descSize=20&descAlign=50&descAlignY=90&textBg=false&color=001891"  />
 </div>
 
-###
+<br>
 
 <br clear="both">
 
 <p align="center">🎓 I'm currently studying Systems Development at SENAI Camaçari. At the same time, I've been developing my hard and soft skills through personal studies.</p>
 
-###
-
 <p align="center">💡 I'm very interested in the data field, including DBA, Power BI, Business Intelligence, and, in the future, Machine Learning. My focus is building a solid professional career, applying what I learn to create optimized and efficient solutions.</p>
-
-###
-
-<br clear="both">
 
 <p align="center">🚀 I believe that with dedication, I can add value to the professional environment and contribute to the growth and innovation of companies wherever I go.</p>
 
-###
-
 <p align="center">✨ Fun fact: I love playing sports like weight training and basketball, learning new things, playing games (I'm quite competitive 😄), watching movies, and petting my dog.</p>
 
-###
+<br>
 
-<br clear="both">
+<h3 align="center">My contact networks 👥</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mateus-de-santos-costa-a754112ba" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  <a href="www.linkedin.com/in/mateus-de-santos-costa-a754112ba" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/_santos474" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-  <a href="mailto:mateusdejesussantoscosta@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  <a href="mateusdejesussantoscosta@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  <a href="_mthzx777" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </div>
 
-###
+<br>
+
+<h3 align="center">Tech Stack & Tools 🔨</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
@@ -85,7 +79,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
-###
+<br>
+
+<h3 align="center">GitHub Stats 📈</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mateus-denv&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -93,10 +89,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateus-denv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=90&textBg=false&color=001891"  />
 </div>
 
-###
+<br>
