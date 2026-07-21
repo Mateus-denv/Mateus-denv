@@ -1,24 +1,24 @@
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Mateus%20J.%20Costa&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&desc=Hi%20,%20welcome!&descSize=20&descAlign=50&descAlignY=90&textBg=false&color=001891"  />
-</div>
+<h1 data-importer="text" align="center">Mateus J. Santos</h1>
 
-<br>
+###
 
 <br clear="both">
 
-<p align="center">🎓 I'm currently studying Systems Development at SENAI Camaçari. At the same time, I've been developing my hard and soft skills through personal studies.</p>
+<p data-importer="text" align="center">Desenvolvedor Backend em formação e Técnico em Desenvolvimento de Sistemas formado pelo SENAI. Tenho experiência com desenvolvimento Back-End utilizando C#, ASP.NET Core, Java, Spring Boot e SQL. Atualmente busco minha primeira oportunidade na área de Tecnologia para aplicar meus conhecimentos, contribuir com projetos reais e continuar evoluindo como desenvolvedor.</p>
 
-<p align="center">💡 I'm very interested in the data field, including DBA, Power BI, Business Intelligence, and, in the future, Machine Learning. My focus is building a solid professional career, applying what I learn to create optimized and efficient solutions.</p>
+###
 
-<p align="center">🚀 I believe that with dedication, I can add value to the professional environment and contribute to the growth and innovation of companies wherever I go.</p>
+<p data-importer="text" align="center">Aspiring Backend Developer and Systems Development Technician certified by SENAI. I have experience in backend development using C#, ASP.NET Core, Java, Spring Boot, and SQL. I am currently seeking my first opportunity in the technology sector to apply my knowledge, contribute to real-world projects, and continue growing as a developer.</p>
 
-<p align="center">✨ Fun fact: I love playing sports like weight training and basketball, learning new things, playing games (I'm quite competitive 😄), watching movies, and petting my dog.</p>
+###
 
-<br>
+<h3 data-importer="text" align="center">My contact networks</h3>
 
-<h3 align="center">My contact networks 👥</h3>
+###
 
-<div align="center">
+<br clear="both">
+
+<div data-importer="socials" align="center">
   <a href="www.linkedin.com/in/mateus-de-santos-costa-a754112ba" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -33,11 +33,13 @@
   </a>
 </div>
 
-<br>
+###
 
-<h3 align="center">Tech Stack & Tools 🔨</h3>
+<h3 data-importer="text" align="center">Tech Stack & Tools 🔨</h3>
 
-<div align="center">
+###
+
+<div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
@@ -79,18 +81,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
-<br>
-
-<h3 align="center">GitHub Stats 📈</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mateus-denv&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mateus-denv&theme=algolia&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateus-denv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=90&textBg=false&color=001891"  />
-</div>
-
-<br>
+###
